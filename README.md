@@ -1,29 +1,29 @@
 # AlpsCatppuccin
-#### .themes
+### .themes
 Apply catppuccin theme globally (see gtk-4.0 apps below)
 
 ~/.themes
-#### gtk-4.0
+### gtk-4.0
 Apply catppuccin to gtk-4.0 apps (nautilus, settings, etc.)
 
 ~/.config/gtk-4.0
-#### .vscode
+### .vscode
 Only if you use VScode:
 Catppuccin theme for VScode
 
 ~/.vscode
-#### .icons
+### .icons
 Icon themes and cursor themes
 
 ~/.icons
-#### Themes
+### Themes
 Only if you use Spicetify:
 Catppuccin theme for Spicetify
 
 ~/.spicetify/Themes
-#### Fonts
+### Fonts
 Extra Nerd fonts I use
-#### OpenBarSettings
+### OpenBarSettings
 Loadable preset for OpenBar extension
-#### Wallpapers
+### Wallpapers
 Wallpapers
