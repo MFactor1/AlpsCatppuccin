@@ -8,11 +8,6 @@ Apply catppuccin theme globally (see gtk-4.0 apps below)
 Apply catppuccin to gtk-4.0 apps (nautilus, settings, etc.)
 
 ~/.config/gtk-4.0
-### .vscode
-Only if you use VScode:
-Catppuccin theme for VScode
-
-~/.vscode
 ### .icons
 Icon themes and cursor themes
 
